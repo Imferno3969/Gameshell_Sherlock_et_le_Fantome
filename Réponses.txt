@@ -1,0 +1,33 @@
+note SAE503 BTS
+
+mdp pc Sherlock : Watson
+
+Etape 1: (mdp sur les papiers)
+watson (peu importe les maj ou pas)
+
+
+Etape 2:
+premiere reponse : 3
+deuxieme reponse : Le fantome est parmi nous
+
+
+Etape 3:
+X.X.X.X
+
+
+Etape 4:
+22
+
+
+Etape 6:
+ls -a
+
+
+Etape final :
+Ghost_42
+
+
+
+a chaque fois que quelqu un a finis faire la commande suivante sur la machine :
+sudo mv D:USB /
+rm message.txt (en générale dans le dossier Messagerie/Mail_reçu)
